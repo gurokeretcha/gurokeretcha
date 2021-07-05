@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 💬 I’m a graduate student from Institut Polytechnique de Paris.
+- 😋 you can see my my portfolio website for more info [here](https://gurokeretcha.github.io/myportfolio/) 
+- 🌱 I’m currently learning data science and AI.
+- ✊  In this github page you can see my projects by topics done by me or with my teammates.
+- 🤝 I am open to work on ML projects.
+- 📫 How to reach me: g.kerechashvili@gmail.com
+
+
 <!--
 **gurokeretcha/gurokeretcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
