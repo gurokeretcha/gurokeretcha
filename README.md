@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 I’m a M2 graduate student from Institut Polytechnique de Paris.
-- 😋 you can see my my [portfolio website](https://gurokeretcha.github.io/myportfolio/).
+- 😋 you can see my [portfolio website](https://gurokeretcha.github.io/myportfolio/).
 - 🌱 I’m currently learning data science and AI.
 - ✊  In this github page you can see my projects by topics done by me or with my teammates.
 - 🤝 I am open to work on ML projects.
