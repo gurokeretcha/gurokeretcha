@@ -1,24 +1,7 @@
 ### Hi there 👋
 
-- 💬 I’m a M2 graduate student from Institut Polytechnique de Paris.
-- 😋 you can see my [portfolio website](https://gurokeretcha.github.io/myportfolio/).
-- 🌱 I’m currently learning data science and AI.
-- ✊  In this github page you can see my projects by topics done by me or with my teammates.
-- 🤝 I am open to work on ML projects.
-- 📫 How to reach me: g.kerechashvili@gmail.com
+- 💬 I’m an AI engineer with over five years of experience
+- 😋 you can see my [Linkedin](https://www.linkedin.com/in/guram-keretchashvili/) and [portfolio website](https://gurokeretcha.github.io/myportfolio/).
+- 🛠️ I’m currently designing and implementing deep learning models (CV, NLP, TS)
+- 📫 How to reach me: g.keretchashvili@gmail.com
 
-
-<!--
-**gurokeretcha/gurokeretcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
